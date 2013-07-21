@@ -1,0 +1,30 @@
+<alumnos> 
+  <alumno>
+   <nombre>gladys rocher</nombre>
+   <edad>  39 </edad>
+    <telefono>222192077 </telefono>
+    <genero>F </genero>
+    <direccion> Calle 87 pte 720 </direccion>
+  </alumno>
+  <alumno>
+   <nombre>andre martinez</nombre>
+   <edad>  6 </edad>
+    <telefono>222192077 </telefono>
+    <genero>M </genero>
+    <direccion> Calle 87 pte 720 </direccion>
+  </alumno>
+  <alumno>
+   <nombre>Aurelio martinez</nombre>
+   <edad>  39 </edad>
+    <telefono>222192077 </telefono>
+    <genero>M </genero>
+    <direccion> Calle 87 pte 720 </direccion>
+  </alumno>
+  <alumno>
+   <nombre>Carmen montangner</nombre>
+   <edad>  56 </edad>
+    <telefono>2287495 </telefono>
+    <genero>F </genero>
+    <direccion> Calle 87 pte 720 </direccion>
+  </alumno>
+</alumnos>
